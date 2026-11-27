@@ -1,5 +1,6 @@
 ZXC Random Crosshair 1.0
 =======================
+<img width="1213" height="793" alt="{8101C81A-E3B4-4ED8-93C7-0ED5F7F7D8CF}" src="https://github.com/user-attachments/assets/1d471248-c15a-467d-9529-838e0596f0aa" />
 
 Случайный прицел для каждого танка в War Thunder.
 
